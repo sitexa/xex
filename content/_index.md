@@ -1,5 +1,5 @@
 ---
-title: "湘鄂西：我的家乡"
+title: "神秘湘鄂西 ：野性大自然"
 featured_image: '/images/gohugo-default-sample-hero-image.jpg'
 description: "神秘，自然，野性，勇敢！"
 ---
