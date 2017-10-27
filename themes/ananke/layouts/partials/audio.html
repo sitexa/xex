@@ -1,0 +1,7 @@
+{{ $bg_audio := .Param "bg_audio" }}
+{{ if $bg_audio }}
+{{ $bg_audio := (trim $bg_audio "/") | absURL }}
+<audio autoplay="autoplay">
+    <source src='{{ $bg_audio }}' type="audio/mpeg"/>
+</audio>
+{{ end }}
