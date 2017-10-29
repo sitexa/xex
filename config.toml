@@ -5,11 +5,12 @@ theme = "ananke"
 themesDir = "themes"
 
 MetaDataFormat = "yaml"
-DefaultContentLanguage = "en"
+DefaultContentLanguage = "zh_CN"
 SectionPagesMenu = "main"
-Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+Paginate = 6 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 enableRobotsTXT = true
+hasCJKLanguage = true
 
 [sitemap]
   changefreq = "monthly"

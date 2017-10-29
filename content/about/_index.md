@@ -1,8 +1,11 @@
 ---
 title: "关于"
-description: "A few years ago, while visiting or, rather, rummaging about Notre-Dame, the author of this book found, in an obscure nook of one of the towers, the following word, engraved by hand upon the wall: —ANANKE."
+description: "湘鄂西，充满神秘色彩的土地，聚集了土家族、苗族、侗族等30多个少数民族，有悠久的历史、独特的文化、魔幻的传说。"
 bg_audio: "/audios/Love-song-of-tujia.mp3"
+featured_image: "/images/tjz.jpg"
 ---
-{{< figure src="/images/Victor_Hugo-Hunchback.jpg" title="Illustration from Victor Hugo et son temps (1881)" >}}
 
-_The Hunchback of Notre-Dame_ (French: _Notre-Dame de Paris_) is a French Romantic/Gothic novel by Victor Hugo, published in 1831. The original French title refers to Notre Dame Cathedral, on which the story is centered. English translator Frederic Shoberl named the novel The Hunchback of Notre Dame in 1833 because at the time, Gothic novels were more popular than Romance novels in England. The story is set in Paris, France in the Late Middle Ages, during the reign of Louis XI.
+![](/images/xex.png)
+
+湘鄂西，是以贺龙建立的湘鄂西革命根据地为标志的武陵山地区，以武陵山脉为中心，以土家族、苗族、侗族为主体的湘鄂渝黔四省（市）毗邻地区，总面积11万多平方公里，总人口为2300多万人，其中，土家族、苗族、侗族等30多个少数民族1100多万人，约占总人口的48%。本区域是中国区域经济的分水岭和西部大开发的最前沿，是连接中原与西南的重要纽带。本区域集革命老区、民族地区和贫困地区于一体，是跨省交界面大、少数民族聚集多、贫困人口分布广的连片特困地区，也是重要的经济协作区。
+
