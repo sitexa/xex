@@ -1,5 +1,5 @@
 ---
-title: 联系我
+title: 联系
 description: We'd love to hear from you
 type: page
 menu:
