@@ -1,7 +1,9 @@
 {{ $bg_audio := .Param "bg_audio" }}
 {{ if $bg_audio }}
 {{ $bg_audio := (trim $bg_audio "/") | absURL }}
-<audio autoplay="autoplay">
+<div style="position:fixed;z-index: 900;top:0;right:0;">
+<audio controls autoplay="autoplay">
     <source src='{{ $bg_audio }}' type="audio/mpeg"/>
 </audio>
+</div>
 {{ end }}
