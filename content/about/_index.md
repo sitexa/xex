@@ -1,7 +1,6 @@
 ---
 title: "关于"
 description: "湘鄂西，充满神秘色彩的土地，聚集了土家族、苗族、侗族等30多个少数民族，有悠久的历史、独特的文化、魔幻的传说。"
-bg_audio: "/audios/Love-song-of-tujia.mp3"
 featured_image: "/images/tjz.jpg"
 ---
 
